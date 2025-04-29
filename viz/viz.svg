@@ -1,0 +1,324 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 805 600">
+    <g transform="translate(10,10)" id="visualization">
+        <g>
+            <rect x="780" y="1.7053025658242404e-13" height="1.9082125603864597" width="5" fill="black"><title>Santibañez Boric, Mónica: 1</title></rect>
+            <rect x="780" y="6.90821256038663" height="1.9082125603864597" width="5" fill="black"><title>Ruiz Balart, Macarena: 1</title></rect>
+            <rect x="780" y="13.81642512077309" height="1.9082125603864597" width="5" fill="black"><title>Stange Marcus, Hans: 1</title></rect>
+            <rect x="780" y="20.72463768115955" height="1.9082125603864597" width="5" fill="black"><title>Molina Oyarzún, Raúl: 1</title></rect>
+            <rect x="780" y="27.63285024154601" height="1.9082125603864597" width="5" fill="black"><title>Silva Roquefort, Rebeca: 1</title></rect>
+            <rect x="780" y="34.54106280193247" height="1.9082125603864597" width="5" fill="black"><title>Mora Briones, Alfredo: 1</title></rect>
+            <rect x="780" y="41.44927536231893" height="3.816425120772948" width="5" fill="black"><title>Vico Sánchez, Mauricio: 2</title></rect>
+            <rect x="780" y="50.26570048309188" height="3.8164251207729194" width="5" fill="black"><title>Perelli Soto, Bruno: 2</title></rect>
+            <rect x="780" y="59.082125603864796" height="3.8164251207729194" width="5" fill="black"><title>Lepe Muñoz, Juan Carlos: 2</title></rect>
+            <rect x="780" y="67.89855072463772" height="3.8164251207729194" width="5" fill="black"><title>Perea Morales, René: 2</title></rect>
+            <rect x="780" y="76.71497584541063" height="3.8164251207729194" width="5" fill="black"><title>Méndez Olivares, Iván: 2</title></rect>
+            <rect x="780" y="85.53140096618355" height="3.8164251207729194" width="5" fill="black"><title>Benavides Bermúdez, Paola: 2</title></rect>
+            <rect x="780" y="94.34782608695647" height="3.8164251207729194" width="5" fill="black"><title>Jove Avilés, Trinidad: 2</title></rect>
+            <rect x="780" y="103.1642512077294" height="5.724637681159422" width="5" fill="black"><title>Gómez Moya, Cristián: 3</title></rect>
+            <rect x="780" y="113.88888888888881" height="5.724637681159436" width="5" fill="black"><title>Reyes León, Daniel: 3</title></rect>
+            <rect x="780" y="124.61352657004825" height="5.724637681159422" width="5" fill="black"><title>Zorzano Betancourt, Osvaldo: 3</title></rect>
+            <rect x="780" y="135.33816425120767" height="5.724637681159436" width="5" fill="black"><title>Maldonado de la Fuente, Felix: 3</title></rect>
+            <rect x="780" y="146.0628019323671" height="5.724637681159436" width="5" fill="black"><title>Pradenas Guentherodt, Gabriela: 3</title></rect>
+            <rect x="780" y="156.78743961352654" height="7.632850241545896" width="5" fill="black"><title>Tapia Reyes, Mauricio: 4</title></rect>
+            <rect x="780" y="169.42028985507244" height="7.632850241545896" width="5" fill="black"><title>Lares López, Lorna: 4</title></rect>
+            <rect x="780" y="182.05314009661834" height="7.632850241545896" width="5" fill="black"><title>Nuñez Gutiérrez, Pablo: 4</title></rect>
+            <rect x="780" y="194.68599033816423" height="7.632850241545839" width="5" fill="black"><title>Marín Pacheco, Antonio: 4</title></rect>
+            <rect x="780" y="207.31884057971007" height="9.541062801932355" width="5" fill="black"><title>Pagueguy Fenner, Sebastián: 5</title></rect>
+            <rect x="780" y="221.85990338164243" height="11.449275362318815" width="5" fill="black"><title>Gatica Ramírez, Pamela: 6</title></rect>
+            <rect x="780" y="238.30917874396124" height="11.449275362318815" width="5" fill="black"><title>Morales Mujica, María Paz: 6</title></rect>
+            <rect x="780" y="254.75845410628006" height="11.449275362318815" width="5" fill="black"><title>Young Araya, Mariana: 6</title></rect>
+            <rect x="780" y="271.20772946859887" height="13.357487922705275" width="5" fill="black"><title>Osses Flores, Roberto: 7</title></rect>
+            <rect x="780" y="289.56521739130415" height="13.357487922705332" width="5" fill="black"><title>Donoso Cisternas, Sergio: 7</title></rect>
+            <rect x="780" y="307.9227053140095" height="13.357487922705332" width="5" fill="black"><title>De la Sotta Lazzerini, Paola: 7</title></rect>
+            <rect x="780" y="326.2801932367148" height="15.265700483091791" width="5" fill="black"><title>Soto Calquín, Leonardo: 8</title></rect>
+            <rect x="780" y="346.5458937198066" height="17.17391304347825" width="5" fill="black"><title>Cortez Orellana, Felipe: 9</title></rect>
+            <rect x="780" y="368.71980676328485" height="17.17391304347825" width="5" fill="black"><title>Castillo Espinoza, Eduardo: 9</title></rect>
+            <rect x="780" y="390.8937198067631" height="19.08212560386471" width="5" fill="black"><title>Abud Carrillo, Jenny: 10</title></rect>
+            <rect x="780" y="414.9758454106278" height="20.99033816425117" width="5" fill="black"><title>Wechsler Pizarro, Andrea: 11</title></rect>
+            <rect x="780" y="440.966183574879" height="22.898550724637687" width="5" fill="black"><title>Dueñas Santander, Rodrigo: 12</title></rect>
+            <rect x="780" y="468.86473429951667" height="24.806763285024147" width="5" fill="black"><title>Jacob Dazarola, Rubén: 13</title></rect>
+            <rect x="780" y="498.6714975845408" height="28.623188405797123" width="5" fill="black"><title>Ode Saleh, Verónica: 15</title></rect>
+            <rect x="0" y="87.5" height="45.797101449275374" width="5" fill="black"><title>Diseño: 24</title></rect>
+            <rect x="780" y="532.2946859903379" height="47.70531400966183" width="5" fill="black"><title>Domínguez González, Pablo: 25</title></rect>
+            <rect x="0" y="138.29710144927537" height="154.56521739130437" width="5" fill="black"><title>Diseño con mención Industrial y Servicios: 81</title></rect>
+            <rect x="0" y="297.86231884057975" height="194.63768115942025" width="5" fill="black"><title>Diseño con mención en Visualidad y Medios: 102</title></rect>
+        </g>
+        <g fill="none" stroke-opacity="1">
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,413.3091787439611C392.5,413.3091787439611,392.5,355.1328502415457,780,355.1328502415457" stroke="#9c93c9" stroke-width="17.17391304347826" />
+                <title>Diseño con mención en Visualidad y Medios → Cortez Orellana, Felipe: 9</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,303.5869565217391C392.5,303.5869565217391,392.5,43.3574879227054,780,43.3574879227054" stroke="#9c93c9" stroke-width="3.816425120772947" />
+                <title>Diseño con mención en Visualidad y Medios → Vico Sánchez, Mauricio: 2</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,126.61835748792271C392.5,126.61835748792271,392.5,501.5338164251205,780,501.5338164251205" stroke="#e5b1b1" stroke-width="5.72463768115942" />
+                <title>Diseño → Ode Saleh, Verónica: 3</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,159.28743961352654C392.5,159.28743961352654,392.5,160.6038647342995,780,160.6038647342995" stroke="#f8e71c" stroke-width="7.632850241545894" />
+                <title>Diseño con mención Industrial y Servicios → Tapia Reyes, Mauricio: 4</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,166.92028985507244C392.5,166.92028985507244,392.5,173.2367149758454,780,173.2367149758454" stroke="#f8e71c" stroke-width="7.632850241545894" />
+                <title>Diseño con mención Industrial y Servicios → Lares López, Lorna: 4</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,321.7149758454105C392.5,321.7149758454105,392.5,106.0265700483091,780,106.0265700483091" stroke="#9c93c9" stroke-width="5.72463768115942" />
+                <title>Diseño con mención en Visualidad y Medios → Gómez Moya, Cristián: 3</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,491.5458937198065C392.5,491.5458937198065,392.5,579.0458937198066,780,579.0458937198066" stroke="#9c93c9" stroke-width="1.9082125603864735" />
+                <title>Diseño con mención en Visualidad y Medios → Domínguez González, Pablo: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,382.77777777777754C392.5,382.77777777777754,392.5,277.88647342995154,780,277.88647342995154" stroke="#9c93c9" stroke-width="13.357487922705314" />
+                <title>Diseño con mención en Visualidad y Medios → Osses Flores, Roberto: 7</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,271.87198067632846C392.5,271.87198067632846,392.5,557.101449275362,780,557.101449275362" stroke="#f8e71c" stroke-width="41.98067632850242" />
+                <title>Diseño con mención Industrial y Servicios → Domínguez González, Pablo: 22</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,238.47826086956516C392.5,238.47826086956516,392.5,481.26811594202877,780,481.26811594202877" stroke="#f8e71c" stroke-width="24.806763285024154" />
+                <title>Diseño con mención Industrial y Servicios → Jacob Dazarola, Rubén: 13</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,216.5338164251207C392.5,216.5338164251207,392.5,424.51690821256017,780,424.51690821256017" stroke="#f8e71c" stroke-width="19.082125603864736" />
+                <title>Diseño con mención Industrial y Servicios → Wechsler Pizarro, Andrea: 10</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,187.9106280193236C392.5,187.9106280193236,392.5,297.19806763285004,780,297.19806763285004" stroke="#f8e71c" stroke-width="11.44927536231884" />
+                <title>Diseño con mención Industrial y Servicios → Donoso Cisternas, Sergio: 6</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,479.1425120772944C392.5,479.1425120772944,392.5,515.8454106280191,780,515.8454106280191" stroke="#9c93c9" stroke-width="22.89855072463768" />
+                <title>Diseño con mención en Visualidad y Medios → Ode Saleh, Verónica: 12</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,426.66666666666646C392.5,426.66666666666646,392.5,381.12318840579695,780,381.12318840579695" stroke="#9c93c9" stroke-width="9.541062801932368" />
+                <title>Diseño con mención en Visualidad y Medios → Castillo Espinoza, Eduardo: 5</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,458.1521739130432C392.5,458.1521739130432,392.5,454.32367149758426,780,454.32367149758426" stroke="#9c93c9" stroke-width="19.082125603864736" />
+                <title>Diseño con mención en Visualidad y Medios → Dueñas Santander, Rodrigo: 10</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,112.30676328502416C392.5,112.30676328502416,392.5,372.53623188405777,780,372.53623188405777" stroke="#e5b1b1" stroke-width="7.632850241545894" />
+                <title>Diseño → Castillo Espinoza, Eduardo: 4</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,439.0700483091785C392.5,439.0700483091785,392.5,402.3429951690819,780,402.3429951690819" stroke="#9c93c9" stroke-width="15.265700483091788" />
+                <title>Diseño con mención en Visualidad y Medios → Abud Carrillo, Jenny: 8</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,307.40338164251204C392.5,307.40338164251204,392.5,52.17391304347835,780,52.17391304347835" stroke="#9c93c9" stroke-width="3.816425120772947" />
+                <title>Diseño con mención en Visualidad y Medios → Perelli Soto, Bruno: 2</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,118.03140096618358C392.5,118.03140096618358,392.5,392.80193236714956,780,392.80193236714956" stroke="#e5b1b1" stroke-width="3.816425120772947" />
+                <title>Diseño → Abud Carrillo, Jenny: 2</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,92.27053140096618C392.5,92.27053140096618,392.5,114.84299516908204,780,114.84299516908204" stroke="#e5b1b1" stroke-width="1.9082125603864735" />
+                <title>Diseño → Reyes León, Daniel: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,131.38888888888889C392.5,131.38888888888889,392.5,534.2028985507244,780,534.2028985507244" stroke="#e5b1b1" stroke-width="3.816425120772947" />
+                <title>Diseño → Domínguez González, Pablo: 2</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,310.26570048309173C392.5,310.26570048309173,392.5,61.94444444444451,780,61.94444444444451" stroke="#9c93c9" stroke-width="1.9082125603864735" />
+                <title>Diseño con mención en Visualidad y Medios → Lepe Muñoz, Juan Carlos: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,173.5990338164251C392.5,173.5990338164251,392.5,186.8236714975845,780,186.8236714975845" stroke="#f8e71c" stroke-width="5.72463768115942" />
+                <title>Diseño con mención Industrial y Servicios → Nuñez Gutiérrez, Pablo: 3</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,99.90338164251207C392.5,99.90338164251207,392.5,183.00724637681157,780,183.00724637681157" stroke="#e5b1b1" stroke-width="1.9082125603864735" />
+                <title>Diseño → Nuñez Gutiérrez, Pablo: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,200.3140096618357C392.5,200.3140096618357,392.5,314.60144927536214,780,314.60144927536214" stroke="#f8e71c" stroke-width="13.357487922705314" />
+                <title>Diseño con mención Industrial y Servicios → De la Sotta Lazzerini, Paola: 7</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,330.3019323671496C392.5,330.3019323671496,392.5,128.42995169082118,780,128.42995169082118" stroke="#9c93c9" stroke-width="3.816425120772947" />
+                <title>Diseño con mención en Visualidad y Medios → Zorzano Betancourt, Osvaldo: 2</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,350.33816425120756C392.5,350.33816425120756,392.5,228.53864734299506,780,228.53864734299506" stroke="#9c93c9" stroke-width="9.541062801932368" />
+                <title>Diseño con mención en Visualidad y Medios → Gatica Ramírez, Pamela: 5</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,397.0893719806761C392.5,397.0893719806761,392.5,333.9130434782607,780,333.9130434782607" stroke="#9c93c9" stroke-width="15.265700483091788" />
+                <title>Diseño con mención en Visualidad y Medios → Soto Calquín, Leonardo: 8</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,103.71980676328502C392.5,103.71980676328502,392.5,222.81400966183566,780,222.81400966183566" stroke="#e5b1b1" stroke-width="1.9082125603864735" />
+                <title>Diseño → Gatica Ramírez, Pamela: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,360.83333333333314C392.5,360.83333333333314,392.5,244.03381642512065,780,244.03381642512065" stroke="#9c93c9" stroke-width="11.44927536231884" />
+                <title>Diseño con mención en Visualidad y Medios → Morales Mujica, María Paz: 6</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,326.4855072463767C392.5,326.4855072463767,392.5,117.70531400966176,780,117.70531400966176" stroke="#9c93c9" stroke-width="3.816425120772947" />
+                <title>Diseño con mención en Visualidad y Medios → Reyes León, Daniel: 2</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,143.06763285024152C392.5,143.06763285024152,392.5,60.03623188405803,780,60.03623188405803" stroke="#f8e71c" stroke-width="1.9082125603864735" />
+                <title>Diseño con mención Industrial y Servicios → Lepe Muñoz, Juan Carlos: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,121.84782608695653C392.5,121.84782608695653,392.5,442.87439613526544,780,442.87439613526544" stroke="#e5b1b1" stroke-width="3.816425120772947" />
+                <title>Diseño → Dueñas Santander, Rodrigo: 2</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,139.2512077294686C392.5,139.2512077294686,392.5,0.9541062801934073,780,0.9541062801934073" stroke="#f8e71c" stroke-width="1.9082125603864735" />
+                <title>Diseño con mención Industrial y Servicios → Santibañez Boric, Mónica: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,371.32850241545873C392.5,371.32850241545873,392.5,261.4371980676327,780,261.4371980676327" stroke="#9c93c9" stroke-width="9.541062801932368" />
+                <title>Diseño con mención en Visualidad y Medios → Young Araya, Mariana: 5</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,88.45410628019323C392.5,88.45410628019323,392.5,7.862318840579867,780,7.862318840579867" stroke="#e5b1b1" stroke-width="1.9082125603864735" />
+                <title>Diseño → Ruiz Balart, Macarena: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,298.816425120773C392.5,298.816425120773,392.5,14.770531400966327,780,14.770531400966327" stroke="#9c93c9" stroke-width="1.9082125603864735" />
+                <title>Diseño con mención en Visualidad y Medios → Stange Marcus, Hans: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,153.5628019323671C392.5,153.5628019323671,392.5,139.1545893719806,780,139.1545893719806" stroke="#f8e71c" stroke-width="3.816425120772947" />
+                <title>Diseño con mención Industrial y Servicios → Maldonado de la Fuente, Felix: 2</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,340.7971014492752C392.5,340.7971014492752,392.5,212.08937198067625,780,212.08937198067625" stroke="#9c93c9" stroke-width="9.541062801932368" />
+                <title>Diseño con mención en Visualidad y Medios → Pagueguy Fenner, Sebastián: 5</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,94.17874396135265C392.5,94.17874396135265,392.5,125.56763285024148,780,125.56763285024148" stroke="#e5b1b1" stroke-width="1.9082125603864735" />
+                <title>Diseño → Zorzano Betancourt, Osvaldo: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,97.9951690821256C392.5,97.9951690821256,392.5,147.01690821256034,780,147.01690821256034" stroke="#e5b1b1" stroke-width="1.9082125603864735" />
+                <title>Diseño → Pradenas Guentherodt, Gabriela: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,141.15942028985506C392.5,141.15942028985506,392.5,21.678743961352787,780,21.678743961352787" stroke="#f8e71c" stroke-width="1.9082125603864735" />
+                <title>Diseño con mención Industrial y Servicios → Molina Oyarzún, Raúl: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,334.11835748792254C392.5,334.11835748792254,392.5,149.87922705314003,780,149.87922705314003" stroke="#9c93c9" stroke-width="3.816425120772947" />
+                <title>Diseño con mención en Visualidad y Medios → Pradenas Guentherodt, Gabriela: 2</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,105.6280193236715C392.5,105.6280193236715,392.5,255.71256038647329,780,255.71256038647329" stroke="#e5b1b1" stroke-width="1.9082125603864735" />
+                <title>Diseño → Young Araya, Mariana: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,145.9299516908212C392.5,145.9299516908212,392.5,69.80676328502419,780,69.80676328502419" stroke="#f8e71c" stroke-width="3.816425120772947" />
+                <title>Diseño con mención Industrial y Servicios → Perea Morales, René: 2</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,96.08695652173913C392.5,96.08695652173913,392.5,136.2922705314009,780,136.2922705314009" stroke="#e5b1b1" stroke-width="1.9082125603864735" />
+                <title>Diseño → Maldonado de la Fuente, Felix: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,447.65700483091763C392.5,447.65700483091763,392.5,435.01207729468575,780,435.01207729468575" stroke="#9c93c9" stroke-width="1.9082125603864735" />
+                <title>Diseño con mención en Visualidad y Medios → Wechsler Pizarro, Andrea: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,313.1280193236714C392.5,313.1280193236714,392.5,78.62318840579711,780,78.62318840579711" stroke="#9c93c9" stroke-width="3.816425120772947" />
+                <title>Diseño con mención en Visualidad y Medios → Méndez Olivares, Iván: 2</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,179.3236714975845C392.5,179.3236714975845,392.5,199.4565217391304,780,199.4565217391304" stroke="#f8e71c" stroke-width="5.72463768115942" />
+                <title>Diseño con mención Industrial y Servicios → Marín Pacheco, Antonio: 3</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,101.81159420289855C392.5,101.81159420289855,392.5,195.64009661835746,780,195.64009661835746" stroke="#e5b1b1" stroke-width="1.9082125603864735" />
+                <title>Diseño → Marín Pacheco, Antonio: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,149.74637681159416C392.5,149.74637681159416,392.5,87.43961352657003,780,87.43961352657003" stroke="#f8e71c" stroke-width="3.816425120772947" />
+                <title>Diseño con mención Industrial y Servicios → Benavides Bermúdez, Paola: 2</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,316.94444444444434C392.5,316.94444444444434,392.5,96.25603864734295,780,96.25603864734295" stroke="#9c93c9" stroke-width="3.816425120772947" />
+                <title>Diseño con mención en Visualidad y Medios → Jove Avilés, Trinidad: 2</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,107.53623188405797C392.5,107.53623188405797,392.5,290.5193236714974,780,290.5193236714974" stroke="#e5b1b1" stroke-width="1.9082125603864735" />
+                <title>Diseño → Donoso Cisternas, Sergio: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,90.3623188405797C392.5,90.3623188405797,392.5,28.586956521739246,780,28.586956521739246" stroke="#e5b1b1" stroke-width="1.9082125603864735" />
+                <title>Diseño → Silva Roquefort, Rebeca: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,300.72463768115944C392.5,300.72463768115944,392.5,35.495169082125706,780,35.495169082125706" stroke="#9c93c9" stroke-width="1.9082125603864735" />
+                <title>Diseño con mención en Visualidad y Medios → Mora Briones, Alfredo: 1</title>
+            </g>
+        </g>
+        <g>
+            <text x="776" y="0.9541062801934004" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Santibañez Boric, Mónica</tspan></text>
+            <text x="776" y="7.86231884057986" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Ruiz Balart, Macarena</tspan></text>
+            <text x="776" y="14.77053140096632" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Stange Marcus, Hans</tspan></text>
+            <text x="776" y="21.67874396135278" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Molina Oyarzún, Raúl</tspan></text>
+            <text x="776" y="28.58695652173924" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Silva Roquefort, Rebeca</tspan></text>
+            <text x="776" y="35.4951690821257" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Mora Briones, Alfredo</tspan></text>
+            <text x="776" y="43.3574879227054" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Vico Sánchez, Mauricio</tspan></text>
+            <text x="776" y="52.173913043478336" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Perelli Soto, Bruno</tspan></text>
+            <text x="776" y="60.990338164251256" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Lepe Muñoz, Juan Carlos</tspan></text>
+            <text x="776" y="69.80676328502418" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Perea Morales, René</tspan></text>
+            <text x="776" y="78.6231884057971" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Méndez Olivares, Iván</tspan></text>
+            <text x="776" y="87.43961352657001" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Benavides Bermúdez, Paola</tspan></text>
+            <text x="776" y="96.25603864734293" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Jove Avilés, Trinidad</tspan></text>
+            <text x="776" y="106.02657004830911" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Gómez Moya, Cristián</tspan></text>
+            <text x="776" y="116.75120772946853" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Reyes León, Daniel</tspan></text>
+            <text x="776" y="127.47584541062795" text-anchor="end">
+                <tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Zorzano Betancourt, Osvaldo</tspan>
+            </text>
+            <text x="776" y="138.2004830917874" text-anchor="end">
+                <tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Maldonado de la Fuente, Felix</tspan>
+            </text>
+            <text x="776" y="148.92512077294683" text-anchor="end">
+                <tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Pradenas Guentherodt, Gabriela</tspan>
+            </text>
+            <text x="776" y="160.6038647342995" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Tapia Reyes, Mauricio</tspan></text>
+            <text x="776" y="173.2367149758454" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Lares López, Lorna</tspan></text>
+            <text x="776" y="185.86956521739128" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Nuñez Gutiérrez, Pablo</tspan></text>
+            <text x="776" y="198.50241545893715" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Marín Pacheco, Antonio</tspan></text>
+            <text x="776" y="212.08937198067625" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Pagueguy Fenner, Sebastián</tspan></text>
+            <text x="776" y="227.58454106280183" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Gatica Ramírez, Pamela</tspan></text>
+            <text x="776" y="244.03381642512065" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Morales Mujica, María Paz</tspan></text>
+            <text x="776" y="260.48309178743943" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Young Araya, Mariana</tspan></text>
+            <text x="776" y="277.8864734299515" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Osses Flores, Roberto</tspan></text>
+            <text x="776" y="296.2439613526568" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Donoso Cisternas, Sergio</tspan></text>
+            <text x="776" y="314.60144927536214" text-anchor="end">
+                <tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">De la Sotta Lazzerini, Paola</tspan>
+            </text>
+            <text x="776" y="333.9130434782607" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Soto Calquín, Leonardo</tspan></text>
+            <text x="776" y="355.1328502415457" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Cortez Orellana, Felipe</tspan></text>
+            <text x="776" y="377.306763285024" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Castillo Espinoza, Eduardo</tspan></text>
+            <text x="776" y="400.43478260869546" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Abud Carrillo, Jenny</tspan></text>
+            <text x="776" y="425.4710144927534" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Wechsler Pizarro, Andrea</tspan></text>
+            <text x="776" y="452.41545893719785" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Dueñas Santander, Rodrigo</tspan></text>
+            <text x="776" y="481.26811594202877" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Jacob Dazarola, Rubén</tspan></text>
+            <text x="776" y="512.9830917874394" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Ode Saleh, Verónica</tspan></text>
+            <text x="9" y="110.39855072463769" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Diseño</tspan></text>
+            <text x="776" y="556.1473429951689" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Domínguez González, Pablo</tspan></text>
+            <text x="9" y="215.57971014492756" text-anchor="start">
+                <tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Diseño con mención Industrial y Servicios</tspan>
+            </text>
+            <text x="9" y="395.1811594202899" text-anchor="start">
+                <tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Diseño con mención en Visualidad y Medios</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
